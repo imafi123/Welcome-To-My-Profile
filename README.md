@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Keeping myself occupied by working on CodeCamp's 'Foundational C# With Microsoft' and various Udemy courses.<br>🌱 Currently learning C#<br>⚡ Fun fact: I have a background in Aerospace Engineering and I've taught myself most of what I know in the domain of Software Engineering.
+😁 Full-stack Web Developer at Thales.<br>🔭 A passionate engineer, with previous professional experience in Cloud Platform Engineering and Systems Engineering.<br>🌱 Currently improving my C#, linux admin, and kubernetes capabilities<br>⚡ Fun fact: I have a background in Aerospace Engineering and I've taught myself most of what I know in the domain of Software Engineering.
 
 
 ## 🌐 Socials:
